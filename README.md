@@ -12,3 +12,5 @@ For the html side, I renamed tags and added additional tags to fit the requireme
 
 ## here is what I have 
 https://vitality23.github.io/classwork-horiseon/
+
+## thank you for coming to my ted talk :D
