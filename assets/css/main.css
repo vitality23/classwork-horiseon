@@ -9,7 +9,7 @@ body {
     font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
     color: #ffffff;
 }
-/* Header and navigation start */
+
 header {
     padding: 20px 35px;
     background-color: #2a607c;
@@ -23,7 +23,7 @@ header h1 {
 header h1 span {
     color: #d9dcd6;
 }
-/* style and move navigation to right and inline */
+/
 header nav {
     margin: 20px 0;
     float: right;
@@ -40,12 +40,11 @@ header nav ul li a {
     color: #ffffff;  
     text-decoration: none;
 }
-/* Header and navigation end */
+
 p {
     font-size: 16px;
     line-height: 1.25;
 }
-/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +53,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Hero Style End */
+
 /* What Horiseon Offers Style Start */
 article.products {
     width: 80%;
@@ -83,8 +82,7 @@ article.products {
 .text-left {
     text-align: left;
 }
-/* What Horiseon Offrs Style End */
-/* Sidebar Style */
+
 aside.benefits {
     margin: 0 25px ;
     padding: 20px;
@@ -105,7 +103,7 @@ aside.benefits {
     margin: 10px auto;
     width: 150px;
 }
-/* Sidebar style end */
+
 /* apply styles to footer */
 footer {
     padding: 30px;
