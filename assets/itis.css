@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+    font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    color: #ffffff;
+}
+/* Header and navigation start */
+header {
+    padding: 20px 35px;
+    background-color: #2a607c;
+}
+
+header h1 {
+    display: inline;
+    font-size: 48px;
+}
+
+header h1 span {
+    color: #d9dcd6;
+}
+/* style and move navigation to right and inline */
+header nav {
+    margin: 20px 0;
+    float: right;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 16px;  
+    color: #ffffff;  
+    text-decoration: none;
+}
+/* Header and navigation end */
+p {
+    font-size: 16px;
+    line-height: 1.25;
+}
+/* Hero Style Start */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* Hero Style End */
+/* What Horiseon Offers Style Start */
+article.products {
+    width: 80%;
+    margin: 25px;
+    padding: 60px 50px 60px 50px;
+    height: fit-content;
+    background-color: #0072bb;
+    overflow: auto;
+}
+.products img {
+    height: 200px;
+    margin: 0 auto;
+    width: 30%;
+    float: left;
+}
+.product-desc {
+    padding: 0 35px 0 35px;
+    float: left;
+    width: 65%;
+    margin: auto;
+}
+.section-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.text-left {
+    text-align: left;
+}
+/* What Horiseon Offrs Style End */
+/* Sidebar Style */
+aside.benefits {
+    margin: 0 25px ;
+    padding: 20px;
+    float: right;
+    width: 15%;
+    height: 100%;
+    background-color: #2589bd;
+}
+.benefit {
+    margin-bottom: 32px;
+}
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    width: 150px;
+}
+/* Sidebar style end */
+/* apply styles to footer */
+footer {
+    padding: 30px;
+    clear: both; 
+    text-align: center;
+}
+footer h2 {
+    font-size: 20px;
+}
