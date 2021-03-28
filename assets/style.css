@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* moved around the tags so that its easier to read whats going on, also replaced a few classes to get it to work properly*/
 body {
     background-color: #d9dcd6;
     font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
@@ -23,8 +23,7 @@ header h1 {
 header h1 span {
     color: #d9dcd6;
 }
-/* style and move nav to right and inline */
-header nav {
+
     margin: 20px 0;
     float: right;
 }
@@ -40,12 +39,12 @@ header nav ul li a {
     color: #ffffff;  
     text-decoration: none;
 }
-/* Header and nav end */
+
 p {
     font-size: 16px;
     line-height: 1.25;
 }
-/* Hero Style Start */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +53,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Hero Style End */
+
 
 article.products {
     width: 80%;
