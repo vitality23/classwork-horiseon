@@ -8,7 +8,7 @@ For the html side, I renamed tags and added additional tags to fit the requireme
 
 ## what the site should look like 
 
-![](pictures/01-html-css-git-homework-demo.png)
+![](assets/pictures/01-html-css-git-homework-demo.png)
 
 ## here is what I have 
 
